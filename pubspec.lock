@@ -80,9 +80,6 @@ packages:
       sha256: ee67cb0715911d28db6bf4af1026078bd6f0128b07a5f66fb2ed94ec6783c09a
       url: "https://pub.dev"
     source: hosted
-<<<<<<< HEAD
-    version: "1.18.0"
-=======
     version: "1.17.2"
   cross_file:
     dependency: transitive
@@ -100,7 +97,7 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "3.0.3"
->>>>>>> a3e341d16a93ae60f02bbabd8f622bac4abe07ab
+
   cupertino_icons:
     dependency: "direct main"
     description:
@@ -395,9 +392,7 @@ packages:
       sha256: a6e590c838b18133bb482a2745ad77c5bb7715fb0451209e1a7567d416678b8e
       url: "https://pub.dev"
     source: hosted
-<<<<<<< HEAD
-    version: "1.10.0"
-=======
+
     version: "1.9.1"
   mime:
     dependency: transitive
@@ -407,7 +402,7 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.0.4"
->>>>>>> a3e341d16a93ae60f02bbabd8f622bac4abe07ab
+
   path:
     dependency: transitive
     description:
@@ -540,9 +535,6 @@ packages:
       sha256: "5c2f730018264d276c20e4f1503fd1308dfbbae39ec8ee63c5236311ac06954b"
       url: "https://pub.dev"
     source: hosted
-<<<<<<< HEAD
-    version: "0.6.1"
-=======
     version: "0.6.0"
   typed_data:
     dependency: transitive
@@ -560,7 +552,7 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "4.2.2"
->>>>>>> a3e341d16a93ae60f02bbabd8f622bac4abe07ab
+
   vector_math:
     dependency: transitive
     description:
@@ -576,11 +568,7 @@ packages:
       sha256: afe077240a270dcfd2aafe77602b4113645af95d0ad31128cc02bce5ac5d5152
       url: "https://pub.dev"
     source: hosted
-<<<<<<< HEAD
-    version: "0.3.0"
-sdks:
-  dart: ">=3.2.0-194.0.dev <4.0.0"
-=======
+
     version: "0.1.4-beta"
   win32:
     dependency: transitive
@@ -601,4 +589,4 @@ sdks:
 sdks:
   dart: ">=3.1.0 <4.0.0"
   flutter: ">=3.10.0"
->>>>>>> a3e341d16a93ae60f02bbabd8f622bac4abe07ab
+
